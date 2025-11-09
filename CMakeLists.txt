@@ -13,4 +13,4 @@ add_executable(${PROJECT_NAME}
 
     # add other source files here
 )
-target_link_libraries(snake ${SDL2_LIBRARIES})
+target_link_libraries(sandbox ${SDL2_LIBRARIES})
